@@ -20,11 +20,11 @@ Hayır. Kimseye verilerinizi paylaşmamaktayız.
 
 Geliştiriciyle nasıl iletişime geçebilirim?
 
-Destek sunucusundan(https://discord.gg/7RAey47Yqt) Sea Vortex#001 ile iletişime geçebilirsiniz.
+Destek sunucusundan(https://discord.gg/7RAey47Yqt) Sea Vortex#0001 ile iletişime geçebilirsiniz.
 
 Verilerinizi nasıl kaldırabilirsiniz?
 
-Destek sunucusundan(https://discord.gg/7RAey47Yqt) Arisa botun geliştricisi olan Sea Vortrex#001 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
+Destek sunucusundan(https://discord.gg/7RAey47Yqt) Arisa botun geliştricisi olan Sea Vortrex#0001 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
 
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 
