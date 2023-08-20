@@ -1,31 +1,7 @@
-Arisa Bot Gizlilik Politikası
+Arisa Bot Privacy Policy
 
-Arisa'yı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
+By using Arisa you agree to the following privacy policy.
 
-Hangi veriler saklanır?
+Sea Arisa Music and Entertainment bot does not store any server data or personal data.
 
-Sunucu Verileri, Kanal Verileri, Kullanıcı verileri ve Rol Verileri saklanabilmektedir.
-
-Veriye neden ihtiyaç duyuyorsunuz ve ne için kullanıyorsunuz?
-
-Sunucu Verileri, (otomatik denetim, konfigürasyon ayarları vb.) için saklanır.
-
-Kanal kimlikleri moderasyon (günlük kanalı, gelen giden kanalı vb.) ayarları için saklanır.
-
-Rol Kimlikleri, moderasyon (otomatik rol, kayıt rolü vb.) için saklanır.
-
-Bu verileri başkasıyla paylaşıyor musunuz?
-
-Hayır. Kimseye verilerinizi paylaşmamaktayız.
-
-Geliştiriciyle nasıl iletişime geçebilirim?
-
-Destek sunucusundan(https://discord.gg/7RAey47Yqt) Sea Vortex#0001 ile iletişime geçebilirsiniz.
-
-Verilerinizi nasıl kaldırabilirsiniz?
-
-Destek sunucusundan(https://discord.gg/7RAey47Yqt) Arisa botun geliştricisi olan Sea Vortrex#0001 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
-
-Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
-
-Not: Kullanıcılarımıza haber vermeksizin bunu değiştirme hakkını saklı tutarız. Bu politika en son 12 ocak 2023 tarihinde güncellenmiştir.
+From the support server(https://discord.gg/7RAey47Yqt) with seavortex, the developer of the Arisa bot, you can directly remove the personal organism from the advisory guide. In the server section, you can remove the bot by removing it from the server.
